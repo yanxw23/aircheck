@@ -7,10 +7,10 @@ import android.view.Window;
 import android.view.WindowManager;
 
 import com.novasoft.aircheck.utils.StatusUtils;
+import com.weikaiyun.fragmentation.SupportActivity;
 
 import androidx.annotation.Nullable;
 import butterknife.ButterKnife;
-import me.yokeyword.fragmentation.SupportActivity;
 
 public abstract class BaseActivity extends SupportActivity {
 

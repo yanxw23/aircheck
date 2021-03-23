@@ -7,11 +7,11 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
 import com.novasoft.aircheck.R;
+import com.weikaiyun.fragmentation.SupportFragment;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import me.yokeyword.fragmentation.SupportFragment;
 
 
 public class IndexFragment extends SupportFragment {
@@ -35,7 +35,7 @@ public class IndexFragment extends SupportFragment {
                              Bundle savedInstanceState) {
 
         View view = inflater.inflate(R.layout.fragment_index, container, false);
-        ButterKnife.bind(view);
+        ButterKnife.bind(this,view);
 
         initView();
 

@@ -2,7 +2,8 @@ package com.novasoft.aircheck.app;
 
 import android.app.Application;
 
-import me.yokeyword.fragmentation.Fragmentation;
+import com.weikaiyun.fragmentation.Fragmentation;
+
 
 public class MyApplication extends Application {
     private static MyApplication mInstance;

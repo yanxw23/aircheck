@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_60">
+
+        <TextView
+            android:id="@+id/tv_nickname"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="大师兄"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+        <TextView
+            android:id="@+id/tv_xing"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="yan"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+        <TextView
+            android:id="@+id/tv_ming"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="xuewei"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+        <TextView
+            android:id="@+id/tv_num"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="01"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+        <TextView
+            android:id="@+id/tv_job"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="coder"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/tv_dept"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="soft"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+        <TextView
+            android:id="@+id/tv_permission"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="allpermisi"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+        <TextView
+            android:id="@+id/tv_disc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="描述"
+            android:textColor="@color/black_deep"
+            android:textSize="@dimen/dp_28" />
+
+
+        <LinearLayout
+            android:layout_width="@dimen/dp_300"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/iv_edit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@mipmap/icon_index_voc" />
+            <ImageView
+                android:id="@+id/iv_copy"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@mipmap/icon_index_voc" />
+            <ImageView
+                android:id="@+id/iv_change_psd"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@mipmap/icon_index_voc" />
+            <ImageView
+                android:id="@+id/iv_delete"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@mipmap/icon_index_voc" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

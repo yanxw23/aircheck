@@ -15,6 +15,7 @@ import android.widget.TextView;
 
 import com.novasoft.aircheck.R;
 import com.novasoft.aircheck.base.BaseActivity;
+import com.novasoft.aircheck.ui.setting.UserSettingFragment;
 import com.novasoft.aircheck.utils.ToastUtil;
 
 import butterknife.BindView;
@@ -83,6 +84,7 @@ public class MainActivity extends BaseActivity {
                 finish();
                 break;
             case R.id.iv_back:
+                onBackPressedSupport();
                 break;
             case R.id.iv_right:
                 break;
@@ -155,7 +157,8 @@ public class MainActivity extends BaseActivity {
             switch (v.getId()) {
                 case R.id.ll_user:
 
-                    ToastUtil.showToast("用户设置");
+                    start(new UserSettingFragment());
+
                     break;
 
                 case R.id.ll_file:
