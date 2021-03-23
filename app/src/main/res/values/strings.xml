@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">aircheck</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="title">NovaSoft Android</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="forget_name">忘记用户名</string>
+    <string name="forget_psd">忘记密码</string>
+    <string name="version">版本号</string>
+
+    <string name="index_status">仪器状态：</string>
+    <string name="index_type">设备型号：</string>
+    <string name="index_name">设备名称：</string>
+    <string name="index_temp">系统温度：</string>
+    <string name="index_pressure">系统压力：</string>
+    <string name="index_process">进程：</string>
+
+    <string name="index_auto">一键测试</string>
+    <string name="index_diy">自定义测试</string>
+    <string name="index_history">历史记录</string>
+    <string name="index_voc">VOC</string>
+
+    <string name="main_menu_user">用户设置</string>
+    <string name="main_menu_file">数据文件夹</string>
+    <string name="main_menu_upload">数据上传</string>
+    <string name="main_menu_log">使用日志</string>
+    <string name="main_menu_language">语言设置</string>
+    <string name="main_menu_newer">新手教学</string>
+    <string name="main_menu_about">关于</string>
+    <string name="main_menu_logout">退出/切换用户</string>
+
+
+
+
+</resources>

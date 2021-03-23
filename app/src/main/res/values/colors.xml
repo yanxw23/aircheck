@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="green">#79c95a</color>
+    <color name="blue">#5197a0</color>
+    <color name="red_deep">#c44848</color>
+    <color name="gray_deep">#a6a6a6</color>
+    <color name="gray">#d9d9d9</color>
+
+    <color name="touming">#99000000</color>
+    <color name="orange">#E85D1C</color>
+    <color name="orange_select">#D34C0D</color>
+    <color name="startColor">#C6470B</color>
+    <color name="normal_bg">#2c344e</color>
+
+    <color name="main_tab_select">#f7b971</color>
+    <color name="main_tab_normal">#ffffff</color>
+    <color name="gray_bg">#F6F6F6</color>
+    <color name="main_bg_normal">#0F172B</color>
+    <color name="main_bg_select">#0e111e</color>
+    <color name="bg_color">#172033</color>
+    <color name="dialog_bg">#272727</color>
+
+
+
+    <color name="control_bar_bg">#77000000</color>
+    <color name="split_color">#f3f3f3</color>
+    <color name="multiple_image_select_primaryDark">#323232</color>
+    <color name="multiple_image_select_accent">#323232</color>
+    <color name="multiple_image_select_albumTextBackground">#99FFFFFF</color>
+    <color name="multiple_image_select_buttonText">#FFFFFF</color>
+    <color name="multiple_image_select_divider">#B6B6B6</color>
+    <color name="multiple_image_select_imageSelectBackground">#000000</color>
+    <color name="multiple_image_select_primary">#323232</color>
+    <color name="multiple_image_select_primaryLight">#C8E6C9</color>
+    <color name="multiple_image_select_primaryText">#ffffff</color>
+    <color name="heji_color">#666666</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="white">#ffffff</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="bbbbbb">#888888</color>
+    <color name="title_bg">#00568e</color>
+    <color name="title_bg_gray">#eeeeee</color>
+    <color name="title_bg_press">#00517e</color>
+    <color name="gray_text">#666666</color>
+    <color name="gray_s">#999999</color>
+    <color name="red_text">#ec524d</color>
+    <color name="main_red">#ff414e</color>
+    <color name="black">#323232</color>
+    <color name="black_deep">#000000</color>
+    <color name="gray_press">#f8f8f8</color>
+    <color name="trans">#00000000</color>
+    <color name="statusbar_black">#666666</color>
+
+    <color name="reply_button_disable">#f5f5f5</color>
+    <color name="reply_button_text">#dfFFFFFF</color>
+    <color name="reply_button_text_disable">#b8b8b8</color>
+    <color name="text_primary">#df000000</color>
+
+    <color name="bg_edittext_color">#00000000</color>
+
+    <color name="bg_horizontal_line_color">#80a3a4a7</color>
+    <color name="bg_horizontal_btn_normal">#eeeeee</color>
+    <color name="bg_horizontal_btn_selected">#70a3a4a7</color>
+
+    <color name="bg_indicator_point_normal">#D8D8D8</color>
+    <color name="bg_indicator_point_selected">#A6A6A6</color>
+    <color name="bg_text_black">#222a3c</color>
+    <color name="bg_layout_black">#181f33</color>
+</resources>
